@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774731340172",
+    "project_id": "signo-df64b",
+    "storage_bucket": "signo-df64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774731340172:android:1de9e7e938b34631f25ea9",
+        "android_client_info": {
+          "package_name": "com.example.aslr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPy_zRLdkPZLvWXhMS5FBdbaJmx79ZX34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
